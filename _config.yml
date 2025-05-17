@@ -1,6 +1,14 @@
-theme: minima
 title: Salted I/O
+
 author: salted demian
+
 description: testing
-# minima:
-#   date_format: "%Y-%m-%d %H:%M"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
+minima:
+  date_format: "%Y-%m-%d %H:%M"
