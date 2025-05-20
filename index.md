@@ -1,5 +1,5 @@
 ---
-title: Hello, world
+title: hello, world
 ---
 
 Phoebe and Jojo!
