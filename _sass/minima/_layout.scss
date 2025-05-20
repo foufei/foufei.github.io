@@ -11,6 +11,10 @@
   position: relative;
 }
 
+.site-header-wrapper {
+    border-bottom: 2px solid $grey-color-light;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -19,7 +23,6 @@
   margin: 0 0;
   padding: 0 0;
   float: left;
-  border-bottom: 2px solid $grey-color-light;
 
   &,
   &:visited {
